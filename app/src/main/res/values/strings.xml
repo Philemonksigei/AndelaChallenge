@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndelaChallenge</string>
+    <string name="philemon_k_sigei">Philemon K. Sigei</string>
+    <string name="email_philemon_ksigei_gmail_com">Email: philemon.ksigei@gmail.com</string>
+    <string name="slack_name_philemon_sigei">Slack Name: Philemon Sigei</string>
+    <string name="phone_no_254716002763">Phone No: +254716002763</string>
+    <string name="track_android">Track : Android</string>
+    <string name="profilepicture">profilepicture</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="Home">Home</string>
+    <string name="AboutAlc">About ALC 4.0</string>
+    <string name="AndelaChallenge">AndelaChallenge</string>
+    <string name="country_kenya">Country: Kenya</string>
+    <string name="name_philemon_k_sigei">Name: Philemon K. Sigei</string>
+    <string name="todo">TODO</string>
+    <string name="notification_error_ssl_cert_invalid">Dou you want to give SSL Permission?</string>
+</resources>
